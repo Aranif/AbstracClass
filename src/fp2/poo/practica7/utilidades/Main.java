@@ -3,6 +3,13 @@ import fp2.poo.practica7.utilidades.*;
 import java.lang.*; 
 //Install this class in your PC
 import java.awt.Color;
+/**
+* @(#)Figura.java
+* you can use the makefile to compile 
+* and execute 
+* Main file of project 
+* @author Aranif 
+*/
 
 
 public class Main{
